@@ -7,4 +7,3 @@ Container.propTypes = {
 };
 
 export default Container;
-

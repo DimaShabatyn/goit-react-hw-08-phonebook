@@ -17,4 +17,3 @@ export const ContactItem = styled.li`
     background-color: gainsboro;
   }
 `;
-
